@@ -1,0 +1,35 @@
+.main{
+	background-color:Moccasin;
+	width: 500px;
+	margin-left: 200px;
+	margin-top: 200px;
+	margin-right: 200px;
+	padding-left: 100px;
+	padding-top: 50px;
+	padding-right: 100px;
+	border-right: 2px solid white;
+	border-top: 2px solid white;
+	border-left: 2px solid white;
+	border-radius:100px;
+	color: black;
+	font-family: serif;
+	font-style: italic;
+    font-weight: 500;
+    font-variant: small-caps;
+    line-height: 2.0;	
+    cursor: text;
+	
+}
+.lol{
+	background-image: url(Fotochki/176752.jpg);
+}
+.m3{
+	
+}
+.m4{
+	background-image: url(Fotochki/176752.jpg);
+}
+#photo1{
+
+  width:500px;
+}
